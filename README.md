@@ -40,18 +40,6 @@ A custom, ergonomic 3D-printable wrist rest / stand designed specifically for **
 
 ---
 
-## 🖨️ Recommended Print Settings
-
-| Parameter | Recommended Value |
-| :--- | :--- |
-| **Material** | PLA / PETG / TPU |
-| **Layer Height** | `0.20 mm` |
-| **Infill** | `15% - 20%` (Gyroid or Grid recommended) |
-| **Walls / Perimeters** | `3 - 4` |
-| **Top / Bottom Layers** | `4 / 4` |
-| **Supports** | Not required (or minimal depending on printer tolerance) |
-
----
 
 ## 🛠️ Customization & Editing
 
@@ -66,9 +54,3 @@ If you want to tweak the geometry, fit, or angle:
 
 * **Keyboard Designs:** Original keyboard geometry references by Quentin at **[Bastardkb](https://bastardkb.com/)** ([GitHub Repository](https://github.com/Bastardkb)).
 * Designed specifically for the **mk2** case iterations of Charybdis and Scylla.
-
----
-
-## 📄 License
-
-This project is released under the **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
